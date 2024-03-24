@@ -12,4 +12,5 @@
 - 📫 如何联系我：+V：walls233
 - 😄 一位热爱看巨人的大学生，叫我艾伦（Allen）就好~~
 - ⚡ 我的知识库：[艾伦的语雀知识库](https://www.yuque.com/yuhangyuan-vp13i)
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7Ailun&show_icons=true&theme=radical)
